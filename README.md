@@ -38,5 +38,5 @@ The **Bookstore Management System in PHP** is a web-based application built usin
 5. Start the project using XAMPP (Apache & MySQL).
 6. Open the browser and visit:
    ```
-   http://localhost/bookstore
+   http://localhost/project
 
