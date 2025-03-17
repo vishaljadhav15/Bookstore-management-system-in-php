@@ -20,8 +20,8 @@
 
         <div class="box">
             <h3>Contact Info</h3>
-            <p> <i class="fas fa-phone"></i> +91 8208545082 </p>
-            <p> <i class="fas fa-phone"></i> +91 8208545082 </p>
+            <p> <i class="fas fa-phone"></i> +91 11111 11111 </p>
+            <p> <i class="fas fa-phone"></i> +91 11111 11111 </p>
             <p> <i class="fas fa-envelope"></i> bookeverse@gmail.com </p>
             <p> <i class="fas fa-map-marker-alt"></i> Pune, Maharastra - 411041 </p>
         </div>
