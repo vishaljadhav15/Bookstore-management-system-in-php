@@ -1,8 +1,8 @@
-# 📚 Bookstore Management System in PHP
+#  Bookstore Management System in PHP
 
 The **Bookstore Management System in PHP** is a web-based application built using PHP and MySQL. It provides an **admin panel** for managing book listings, customer orders, and categories, while allowing users to browse, search, and purchase books online.
 
-## 🚀 Features
+##  Features
 
 ### **User Panel**
 - Browse books by title, 
@@ -17,13 +17,13 @@ The **Bookstore Management System in PHP** is a web-based application built usin
 - **Category Management** – Organize books into categories
 - **User Management** – View and manage registered users
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, MySQL
 - **Database:** MySQL
 - **Local Development:** XAMPP
 
-## 📌 Installation Guide
+##  Installation Guide
 
 1. Clone the repository:
    ```bash
